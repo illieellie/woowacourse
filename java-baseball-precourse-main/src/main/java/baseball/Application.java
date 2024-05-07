@@ -44,7 +44,7 @@ public class Application {
         }
         }
         boolean RandomCheck(){
-            // 한번 더 체크 랜덤값에 0이 들어있으면 안됨, 컴퓨터는 1에서 9까지 서로 다른 임의의 수 3개를 선택한다.
+            // 한번 더 체크 랜덤값에 0이 들어있으면 안됨, 컴퓨터는 1에서 9까지 서로 다른 임의의 수 3개를 선택
         boolean result = true;
 
         if(computer[0]==0||computer[1]==0||computer[2]==0||computer[0]==computer[1]||computer[0]==computer[2]||computer[1]==computer[2]) {
