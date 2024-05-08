@@ -198,7 +198,7 @@
       <updated>1715085832567</updated>
       <workItem from="1715085833704" duration="3298000" />
       <workItem from="1715089152252" duration="81000" />
-      <workItem from="1715137246340" duration="15062000" />
+      <workItem from="1715137246340" duration="18531000" />
     </task>
     <servers />
   </component>
@@ -212,11 +212,6 @@
           <url>file://$PROJECT_DIR$/java-baseball-precourse-main/src/test/java/baseball/ApplicationTest.java</url>
           <line>15</line>
           <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-baseball-precourse-main/src/main/java/baseball/Application.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java-baseball-precourse-main/src/test/java/baseball/ApplicationTest.java</url>
