@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d43d478c-9b4c-445c-9b6e-84374152a8f3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/java-baseball-precourse-main/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball-precourse-main/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-baseball-precourse-main/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball-precourse-main/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-baseball-precourse-main/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball-precourse-main/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-baseball-precourse-main/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball-precourse-main/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-baseball-precourse-main/src/main/java/baseball/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball-precourse-main/src/main/java/baseball/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-baseball-precourse-main/src/test/java/baseball/ApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-baseball-precourse-main/src/test/java/baseball/ApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,7 +198,7 @@
       <updated>1715085832567</updated>
       <workItem from="1715085833704" duration="3298000" />
       <workItem from="1715089152252" duration="81000" />
-      <workItem from="1715137246340" duration="10288000" />
+      <workItem from="1715137246340" duration="15062000" />
     </task>
     <servers />
   </component>
